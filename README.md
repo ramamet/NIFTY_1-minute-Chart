@@ -12,7 +12,12 @@
  In this work, I have collected NIFTY50 index for the period of 2012 to 2016. Each month dataset is stored in 
  NIFTY_HistoricalData folder with yearwise subfolders. Shiny app is developed to process and visulize the dataset.
  
-     shiny App (using R)
+     >> library(shiny)
+     >> runApp()
  
  ![nifty](https://cloud.githubusercontent.com/assets/16385390/19945517/ccbbb304-a140-11e6-9fca-6386bd7ad9c4.png)
 
+      
+       Saturday,Sunday and other Market holidays: You may get this!
+       
+ ![holiday](https://cloud.githubusercontent.com/assets/16385390/19946285/f3634b0e-a143-11e6-9632-fcd197991e00.png)
