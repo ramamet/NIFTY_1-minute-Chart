@@ -9,3 +9,8 @@
 
  Here I have collected NSE BANK index and NIFTY50 index for the period of 2012 to 2016. Shiny app is also developed to 
  process the dataset.
+ 
+     shiny App (using R)
+ 
+ ![nifty](https://cloud.githubusercontent.com/assets/16385390/19945517/ccbbb304-a140-11e6-9fca-6386bd7ad9c4.png)
+
