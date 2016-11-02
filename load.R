@@ -35,7 +35,7 @@ runTest <- function(yr,mn,dt){
 
 	  mm=toupper(m)
 
-	  df=read.table((paste0("../",YEAR,"/",YEAR," ",mm," NIFTY",".txt",sep="")),sep=",")
+	  df=read.table((paste0("NIFTY_HistoricalData/",YEAR,"/",YEAR," ",mm," NIFTY",".txt",sep="")),sep=",")
 
 	  colnames(df)[4]="Open"
 	  colnames(df)[5]="High"
